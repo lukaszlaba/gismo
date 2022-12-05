@@ -1,0 +1,7 @@
+C:\myvenvs\struthonvenv\Scripts\pyuic5 mainwindow.ui > mainwindow_ui.py
+
+frozzing:
+
+cd C:\Users\LABAL\miniconda3\Scripts
+
+pyinstaller --onefile --noconsole --icon=app.ico C:\C_LUKASZLABA1\gismo\gismo.py
